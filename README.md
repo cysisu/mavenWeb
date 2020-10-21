@@ -1,4 +1,4 @@
-# first mavenWeb project
+# first maven web project
 ### idea 打开项目
 ### maven  build或者刷新，把依赖包下载下来
 ### 运行Application的main函数
